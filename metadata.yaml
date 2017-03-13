@@ -1,5 +1,8 @@
 _repo: The-Whole-History-of-Grandfather-s-Chair--13-Or-True-Stories-from-New-England-History-1620-180__1926
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hawthorne, Nathaniel
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28
     wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1926#The-Whole-History-of-Grandfather-s-Chair--13-Or-True-Stories-from-New-England-History-1620-180_
 gutenberg_issued: '1999-10-01'
 gutenberg_type: Text
 identifiers:
